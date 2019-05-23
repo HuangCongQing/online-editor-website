@@ -10,7 +10,7 @@
 
 ### Online
 
-* 
+* 可以查到LaTex 公式：[Online LaTeX Equation Editor](http://latex.codecogs.com/eqneditor/editor.php)。
 
 
 
